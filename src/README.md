@@ -8,4 +8,5 @@ Este es mi repositorio del proyecto de GifExpertApp de React
 Uso de Git:
 -----------------------------------
 1.- git add .
-2.- git commit -m "nombre del commit"
+2.- git commit -m "nombre del commit" (crea los cambios en local)
+3.- git push (sube los cambios al repositorio GitHub)
